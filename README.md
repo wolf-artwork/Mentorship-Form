@@ -14,8 +14,8 @@ This repository contain a Form to help people and companies create and share the
 
 <br>
 
-<p align="center"> Layout
-  <img alt="Original Layout" src="https://imagizer.imageshack.com/v2/700x939q90/923/tEDifm.jpg" widht="100%">
+<p align="center"> Layout <br> <br> 
+<img alt="Original Layout" src="https://imagizer.imageshack.com/v2/700x939q90/923/tEDifm.jpg" widht="100%">
 </p>
 
 
